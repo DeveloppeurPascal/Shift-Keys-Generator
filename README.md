@@ -20,11 +20,11 @@ This software is available in a directly installable or executable production ve
 
 You can download and redistribute it free of charge, provided you do not modify its content (installer, program, additional files, etc.).
 
-[Download program or installer](DDD) (WIP)
+[Download program or installer](https://olfsoftware.lemonsqueezy.com/buy/f09a147c-83f9-4ea6-86a7-e52cc9dda9e7)
 
 If you use this software regularly and are satisfied with it, you are invited to purchase an end-user license. Purchasing a license will give you access to software updates, as well as enabling optional features.
 
-[Buy a license](FFF) (WIP)
+[Buy a license](https://olfsoftware.lemonsqueezy.com/buy/78f89e23-394c-48d6-a14a-df7acc6c628e)
 
 You can also [visit the software website](https://shiftkeysgenerator.olfsoftware.fr/) to find out more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
 

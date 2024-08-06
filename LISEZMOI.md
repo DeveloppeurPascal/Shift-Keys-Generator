@@ -20,11 +20,11 @@ Ce logiciel est disponible dans une version de production directement installabl
 
 Vous pouvez le télécharger et le rediffuser gratuitement à condition de ne pas en modifier le contenu (installeur, programme, fichiers annexes, ...).
 
-[Télécharger le programme ou son installeur](DDD) (WIP)
+[Télécharger le programme ou son installeur](https://olfsoftware.lemonsqueezy.com/buy/f09a147c-83f9-4ea6-86a7-e52cc9dda9e7)
 
 Si vous utilisez régulièrement ce logiciel et en êtes satisfait vous êtes invité à en acheter une licence d'utilisateur final. L'achat d'une licence vous donnera accès aux mises à jour du logiciel en plus d'activer d'évenuelles fonctionnalités optionnelles.
 
-[Acheter une licence](FFF) (WIP)
+[Acheter une licence](https://olfsoftware.lemonsqueezy.com/buy/78f89e23-394c-48d6-a14a-df7acc6c628e)
 
 Vous pouvez aussi [consulter le site du logiciel](https://shiftkeysgenerator.olfsoftware.fr/) pour en savoir plus sur son fonctionnement, accéder à des vidéos et articles, connaître les différentes versions disponibles et leurs fonctionnalités, contacter le support utilisateurs...
 
