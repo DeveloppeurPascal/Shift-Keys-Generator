@@ -95,7 +95,6 @@ type
     FFreezePAramsSetValue: boolean;
     FKeySize: integer;
   protected
-    procedure InitMainFormCaption;
     procedure InitAboutDialogBox;
     procedure FillPascalCode(const Key: TList<integer>);
     procedure mmoSelectAllOnEnter(Sender: TObject);
@@ -224,7 +223,6 @@ procedure TfrmMain.FormCreate(Sender: TObject);
 var
   i: integer;
 begin
-  InitMainFormCaption;
   InitAboutDialogBox;
 
   FKeySize := 0;
@@ -283,17 +281,6 @@ begin
     'If you have any questions or require additional functionality, please leave us a message on the application''s website or on its code repository.'
     + slinebreak + slinebreak +
     'To find out more, visit https://shiftkeysgenerator.olfsoftware.fr';
-end;
-
-procedure TfrmMain.InitMainFormCaption;
-begin
-{$IFDEF DEBUG}
-  caption := '[DEBUG] ';
-{$ELSE}
-  caption := '';
-{$ENDIF}
-  caption := caption + OlfAboutDialog1.Titre + ' v' +
-    OlfAboutDialog1.VersionNumero;
 end;
 
 procedure TfrmMain.mmoSelectAllOnEnter(Sender: TObject);
