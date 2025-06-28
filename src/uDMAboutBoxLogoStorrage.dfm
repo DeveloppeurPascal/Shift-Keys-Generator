@@ -1,4 +1,4 @@
-object dmLogo: TdmLogo
+object dmAboutBoxLogo: TdmAboutBoxLogo
   Height = 480
   Width = 640
   object imgLogo: TImageList
@@ -171,17 +171,16 @@ object dmLogo: TdmLogo
               DD3EFDC78F885230285CEC7420FA1CE16CFE353CB256BE525AECEB1EF88E3332
               12C43D1753FD3FC436197301A9B8DD0000000049454E44AE426082}
             FileName = 
-              'C:\Users\patrickpremartin\Documents\Embarcadero\Studio\Projets\S' +
-              'hiftKeysGenerator\assets\icons\ShiftKeysGeneratorIcon-256x256.pn' +
-              'g'
+              'C:\Dev\Shift-Keys-Generator\assets\icons\ShiftKeysGeneratorIcon-' +
+              '256x256.png'
           end>
-        Name = 'ShiftKeysGeneratorIcon-256x256'
+        Name = 'StarterKitDefaultIcon-256x256'
       end>
     Destination = <
       item
         Layers = <
           item
-            Name = 'ShiftKeysGeneratorIcon-256x256'
+            Name = 'StarterKitDefaultIcon-256x256'
             SourceRect.Right = 256.000000000000000000
             SourceRect.Bottom = 256.000000000000000000
           end>
